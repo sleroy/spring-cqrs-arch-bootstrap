@@ -21,3 +21,58 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/cqrs-commands.trace
+Supprimerait .classpath
+Supprimerait .gradle/
+Supprimerait .idea/.name
+Supprimerait .idea/markdown-navigator/
+Supprimerait .idea/misc.xml
+Supprimerait .idea/sonarlint/
+Supprimerait .idea/workspace.xml
+Supprimerait .project
+Supprimerait .settings/
+Supprimerait cqrs-commands.trace
+Supprimerait docker-compose.yml
+Supprimerait src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/model/
+Supprimerait src/main/java/org/springframework/samples/petclinic/owner/OwnerController.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/owner/OwnerRepository.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/owner/domain/
+Supprimerait src/main/java/org/springframework/samples/petclinic/pets/PetController.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/pets/PetRepository.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/pets/PetTypeFormatter.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/pets/PetValidator.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/pets/domain/
+Supprimerait src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/system/CrashController.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/system/WelcomeController.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/vet/
+Supprimerait src/main/java/org/springframework/samples/petclinic/visit/VisitController.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/visit/VisitRepository.java
+Supprimerait src/main/java/org/springframework/samples/petclinic/visit/domain/
+Supprimerait src/main/less/
+Supprimerait src/main/resources/application-mysql.properties
+Supprimerait src/main/resources/banner.txt
+Supprimerait src/main/resources/db/
+Supprimerait src/main/resources/messages/
+Supprimerait src/main/resources/static/
+Supprimerait src/main/resources/templates/
+Supprimerait src/main/wro/
+Supprimerait src/test/
+Supprimerait target/.wro4j/
+Supprimerait target/classes/META-INF/
+Supprimerait target/classes/application-mysql.properties
+Supprimerait target/classes/application.properties
+Supprimerait target/classes/banner.txt
+Supprimerait target/classes/db/
+Supprimerait target/classes/messages/
+Supprimerait target/classes/static/
+Supprimerait target/classes/templates/
+Supprimerait target/generated-sources/
+Supprimerait target/generated-test-sources/
+Supprimerait target/jacoco.exec
+Supprimerait target/maven-status/
+Supprimerait target/surefire-reports/
+Supprimerait target/test-classes/META-INF/
+/.classpath
+/.gitignore
